@@ -19,7 +19,7 @@ This project is a website to provide an online catalog for a small local library
 |--|--|
 | Frontend | HTML, CSS, JavaScript, jQuery, BootStrap |
 | Backend | Django (Python Framework) |
-| Database | Postgres SQL |
+| Database | db.sqlite3 |
 
 ## Credits
 I did this project while learning Django, and Mozilla Developer Network did an amazing tutorial to help me understand core concepts of django.
